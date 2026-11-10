@@ -36,6 +36,5 @@
   <img src="https://img.shields.io/badge/Digital Electronics-3776AB?style=for-the-badge&logo=digitalelectronics&logoColor=white" alt="Digital Electronics" />
   <img src="https://img.shields.io/badge/Computer Architechure-3776AB?style=for-the-badge&logo=computerarchitechure&logoColor=white" alt="Computer Architechure" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <br/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
